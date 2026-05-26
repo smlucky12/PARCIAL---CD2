@@ -5,7 +5,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-#import easyocr
+import easyocr
 import matplotlib.pyplot as plt
 from PIL import Image
 from collections import Counter
@@ -17,7 +17,7 @@ from io import BytesIO
 from wordcloud import WordCloud
 from textblob import TextBlob
 import spacy
-#import cv2
+import cv2
 import gc
 import seaborn as sns
 
