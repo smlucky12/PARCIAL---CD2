@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+easyocr
+matplotlib
+Pillow
+nltk
+wordcloud
+textblob
+spacy
+opencv-python
+seaborn
+rapidfuzz
+openpyxl
+torch
+torchvision
+torchaudio
