@@ -1,14 +1,14 @@
 streamlit
 pandas
-numpy
+numpy==1.26.4
 easyocr
+opencv-python-headless==4.10.0.84
 matplotlib
 Pillow
 nltk
 wordcloud
 textblob
 spacy
-opencv-python-headless
 seaborn
 rapidfuzz
 openpyxl
