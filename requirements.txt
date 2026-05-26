@@ -3,10 +3,4 @@ pandas
 numpy<2
 matplotlib
 Pillow
-nltk
-wordcloud
-textblob
 opencv-python-headless
-seaborn
-rapidfuzz
-openpyxl
